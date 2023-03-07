@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-
+                    PokedexApp()
                 }
             }
         }
@@ -31,7 +31,9 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun PokedexApp(){
-    
+    PokedexTheme {
+
+    }
 }
 
 

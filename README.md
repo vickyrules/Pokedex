@@ -1,0 +1,1 @@
+<div align="center"> <img src=".\app\src\main\res\drawable\ic_pokedex.png"></div>
